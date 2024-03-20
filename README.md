@@ -28,4 +28,4 @@
 
 
 
-![](https://leetcard.jacoblin.cool/rishicode07?cache=0)
+![](https://leetcard.jacoblin.cool/rishicode07?ext=heatmap)
