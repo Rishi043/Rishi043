@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **rishiwork43@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/152NSMLlxQAb9RSFnVL3nimuo-0pxsvYU/view" target="blank"> </a>
+- 📄 Know about my experiences "https://drive.google.com/file/d/152NSMLlxQAb9RSFnVL3nimuo-0pxsvYU/view"
 
 - ⚡ Fun fact **Passionate about travelling and had solo travelled almost 13+ states at an age of XX.**
 
